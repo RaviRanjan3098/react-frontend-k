@@ -33,7 +33,7 @@ export default function Home() {
    </search>
    
    <search>
-     <div className="mx-16">
+     <div className="mx-4">
             <Lists  />
           </div>
    </search>
